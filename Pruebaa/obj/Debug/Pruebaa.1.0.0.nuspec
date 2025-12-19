@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Pruebaa</id>
+    <version>1.0.0</version>
+    <authors>Pruebaa</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Avalonia" version="11.3.9" exclude="Build,Analyzers" />
+        <dependency id="Avalonia.Desktop" version="11.3.9" exclude="Build,Analyzers" />
+        <dependency id="Avalonia.Diagnostics" version="11.3.9" exclude="Build,Analyzers" />
+        <dependency id="Avalonia.Fonts.Inter" version="11.3.9" exclude="Build,Analyzers" />
+        <dependency id="Avalonia.Themes.Fluent" version="11.3.9" exclude="Build,Analyzers" />
+        <dependency id="Pomelo.EntityFrameworkCore.MySql" version="9.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Proyectos\Pruebaa\Pruebaa\bin\Debug\net8.0\Pruebaa.runtimeconfig.json" target="lib\net8.0\Pruebaa.runtimeconfig.json" />
+    <file src="D:\Proyectos\Pruebaa\Pruebaa\bin\Debug\net8.0\Pruebaa.dll" target="lib\net8.0\Pruebaa.dll" />
+  </files>
+</package>

@@ -1,0 +1,17 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
+using Pruebaa.Models;
+using Pruebaa.Service;
+
+namespace Pruebaa.Data;
+
+public class AppDbContext : DbContext
+{
+    public DbSet<Personas> Personas {set;get;} //lista de personas 
+
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        var connectionString = "server=localhost;database=DB_AT;user=root;password=santi2112"; //datos de la conexion que EF va a realizar
+        optionsBuilder.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString));
+    }
+}

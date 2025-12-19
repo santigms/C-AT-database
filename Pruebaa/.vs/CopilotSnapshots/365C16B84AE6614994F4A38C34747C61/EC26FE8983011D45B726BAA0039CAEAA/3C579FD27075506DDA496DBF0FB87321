@@ -1,0 +1,26 @@
+﻿using System;
+using Microsoft.EntityFrameworkCore;
+using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
+using Pruebaa.Models;
+
+namespace Pruebaa.Data;
+
+public class AppDbContext : DbContext
+{
+    public AppDbContext() { }
+
+    public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
+
+    public DbSet<Personas> Personas { get; set; } //lista de personas 
+
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        if (!optionsBuilder.IsConfigured)
+        {
+            var connectionString = "server=localhost;database=DB_AT;user=root;password=santi2112"; //datos de la conexion que EF va a realizar
+            // Use a fixed server version compatible with Pomelo 9 (MySQL 8.0)
+            var serverVersion = new MySqlServerVersion(new Version(8, 0, 33));
+            optionsBuilder.UseMySql(connectionString, serverVersion);
+        }
+    }
+}
