@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\Proyectos\\Pruebaa\\Pruebaa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\pruebaa\\pruebaa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\pruebaa\\pruebaa\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|solutionrelative:mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\pruebaa\\pruebaa\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|solutionrelative:app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\pruebaa\\pruebaa\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\pruebaa\\pruebaa\\helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|solutionrelative:helpers\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\pruebaa\\pruebaa\\views\\personaview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|solutionrelative:views\\personaview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\pruebaa\\pruebaa\\service\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|solutionrelative:service\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\pruebaa\\pruebaa\\views\\herramientaview.axaml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|solutionrelative:views\\herramientaview.axaml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\pruebaa\\pruebaa\\viewmodels\\personaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|solutionrelative:viewmodels\\personaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\pruebaa\\pruebaa\\views\\personaview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|solutionrelative:views\\personaview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\pruebaa\\pruebaa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,72 +34,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Proyectos\\Pruebaa\\Pruebaa\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Proyectos\\Pruebaa\\Pruebaa\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T22:54:02.992Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.axaml.cs",
-              "DocumentMoniker": "D:\\Proyectos\\Pruebaa\\Pruebaa\\App.axaml.cs",
-              "RelativeDocumentMoniker": "App.axaml.cs",
-              "ToolTip": "D:\\Proyectos\\Pruebaa\\Pruebaa\\App.axaml.cs",
-              "RelativeToolTip": "App.axaml.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-18T23:09:44.816Z",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "D:\\Proyectos\\Pruebaa\\Pruebaa\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "MainWindow.axaml",
+              "ToolTip": "D:\\Proyectos\\Pruebaa\\Pruebaa\\MainWindow.axaml",
+              "RelativeToolTip": "MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-26T19:08:17.635Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "personaService.cs",
-              "DocumentMoniker": "D:\\Proyectos\\Pruebaa\\Pruebaa\\Service\\personaService.cs",
-              "RelativeDocumentMoniker": "Service\\personaService.cs",
-              "ToolTip": "D:\\Proyectos\\Pruebaa\\Pruebaa\\Service\\personaService.cs",
-              "RelativeToolTip": "Service\\personaService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswA8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T00:32:29.177Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "PersonaView.axaml",
               "DocumentMoniker": "D:\\Proyectos\\Pruebaa\\Pruebaa\\Views\\PersonaView.axaml",
               "RelativeDocumentMoniker": "Views\\PersonaView.axaml",
               "ToolTip": "D:\\Proyectos\\Pruebaa\\Pruebaa\\Views\\PersonaView.axaml",
               "RelativeToolTip": "Views\\PersonaView.axaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-17T00:35:05.706Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-26T20:38:46.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "relayCommand.cs",
-              "DocumentMoniker": "D:\\Proyectos\\Pruebaa\\Pruebaa\\Helpers\\relayCommand.cs",
-              "RelativeDocumentMoniker": "Helpers\\relayCommand.cs",
-              "ToolTip": "D:\\Proyectos\\Pruebaa\\Pruebaa\\Helpers\\relayCommand.cs",
-              "RelativeToolTip": "Helpers\\relayCommand.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T00:08:44.766Z",
+              "DocumentIndex": 3,
+              "Title": "HerramientaView.axaml",
+              "DocumentMoniker": "D:\\Proyectos\\Pruebaa\\Pruebaa\\Views\\HerramientaView.axaml",
+              "RelativeDocumentMoniker": "Views\\HerramientaView.axaml",
+              "ToolTip": "D:\\Proyectos\\Pruebaa\\Pruebaa\\Views\\HerramientaView.axaml",
+              "RelativeToolTip": "Views\\HerramientaView.axaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-26T20:38:27.553Z",
               "EditorCaption": ""
             },
             {
@@ -110,9 +98,21 @@
               "RelativeDocumentMoniker": "ViewModels\\personaViewModel.cs",
               "ToolTip": "D:\\Proyectos\\Pruebaa\\Pruebaa\\ViewModels\\personaViewModel.cs",
               "RelativeToolTip": "ViewModels\\personaViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T00:32:24.3Z",
+              "WhenOpened": "2025-12-26T17:30:56.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Proyectos\\Pruebaa\\Pruebaa\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Proyectos\\Pruebaa\\Pruebaa\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T00:11:29.819Z",
               "EditorCaption": ""
             }
           ]

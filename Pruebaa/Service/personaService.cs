@@ -7,7 +7,7 @@ using Pruebaa.Models;
 
 namespace Pruebaa.Service;
 
-public class personaService
+public class PersonaService
 {
     private readonly AppDbContext _db = new AppDbContext();
 

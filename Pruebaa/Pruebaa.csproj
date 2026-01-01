@@ -7,6 +7,12 @@
     <AvaloniaUseCompiledBindingsByDefault>true</AvaloniaUseCompiledBindingsByDefault>
     <InvariantGlobalization>true</InvariantGlobalization>
   </PropertyGroup>
+  <ItemGroup>
+    <AvaloniaXaml Remove="Views\HerramientaView.axaml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Views\HerramientaView.axaml" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Avalonia" Version="11.3.9" />

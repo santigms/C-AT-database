@@ -12,6 +12,7 @@ public class AppDbContext : DbContext
     public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 
     public DbSet<Personas> Personas { get; set; } //lista de personas 
+    public DbSet<Herramientas> Herramientas { get; set; } //lista de herramientas
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {

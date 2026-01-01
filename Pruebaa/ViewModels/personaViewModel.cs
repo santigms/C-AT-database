@@ -9,7 +9,7 @@ namespace Pruebaa.ViewModels;
 
 public class PersonaViewModel: INotifyPropertyChanged
 {
-    private readonly personaService _service = new personaService();
+    private readonly PersonaService _service = new PersonaService();
 
     public ObservableCollection<Personas> personasList {get; } = new();
     // Propiedad en PascalCase para enlazar desde la vista (ItemsSource="{Binding Personas}")
