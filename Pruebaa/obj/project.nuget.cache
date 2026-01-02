@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mYggPKJ85Wg=",
+  "dgSpecHash": "QB9YMuT+Eoc=",
   "success": true,
-  "projectFilePath": "D:\\Proyectos\\Pruebaa\\Pruebaa\\Pruebaa.csproj",
+  "projectFilePath": "D:\\Proyectos\\C-AT-database\\Pruebaa\\Pruebaa.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guaym\\.nuget\\packages\\avalonia\\11.3.9\\avalonia.11.3.9.nupkg.sha512",
     "C:\\Users\\guaym\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.25547.20250602\\avalonia.angle.windows.natives.2.1.25547.20250602.nupkg.sha512",

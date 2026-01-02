@@ -1,29 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Proyectos\\Pruebaa\\Pruebaa\\",
+  "WorkspaceRootPath": "D:\\Proyectos\\C-AT-database\\Pruebaa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\pruebaa\\pruebaa\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\c-at-database\\pruebaa\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
       "RelativeMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|solutionrelative:mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\pruebaa\\pruebaa\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\c-at-database\\pruebaa\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|solutionrelative:mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\pruebaa\\pruebaa\\views\\personaview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
-      "RelativeMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|solutionrelative:views\\personaview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+      "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\c-at-database\\pruebaa\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|solutionrelative:app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\pruebaa\\pruebaa\\views\\herramientaview.axaml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\c-at-database\\pruebaa\\models\\herramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|solutionrelative:models\\herramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\c-at-database\\pruebaa\\views\\herramientaview.axaml||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|solutionrelative:views\\herramientaview.axaml||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\pruebaa\\pruebaa\\viewmodels\\personaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|solutionrelative:viewmodels\\personaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\c-at-database\\pruebaa\\views\\personaview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|solutionrelative:views\\personaview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\pruebaa\\pruebaa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|d:\\proyectos\\c-at-database\\pruebaa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A0C31D2-E2D8-24B9-0BAA-1EF1D0C20F5F}|Pruebaa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,32 +38,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Proyectos\\Pruebaa\\Pruebaa\\Program.cs",
+              "DocumentMoniker": "D:\\Proyectos\\C-AT-database\\Pruebaa\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Proyectos\\Pruebaa\\Pruebaa\\Program.cs",
+              "ToolTip": "D:\\Proyectos\\C-AT-database\\Pruebaa\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-18T22:54:02.992Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.axaml.cs",
+              "DocumentMoniker": "D:\\Proyectos\\C-AT-database\\Pruebaa\\App.axaml.cs",
+              "RelativeDocumentMoniker": "App.axaml.cs",
+              "ToolTip": "D:\\Proyectos\\C-AT-database\\Pruebaa\\App.axaml.cs",
+              "RelativeToolTip": "App.axaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T16:51:13.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "herramientas.cs",
+              "DocumentMoniker": "D:\\Proyectos\\C-AT-database\\Pruebaa\\Models\\herramientas.cs",
+              "RelativeDocumentMoniker": "Models\\herramientas.cs",
+              "ToolTip": "D:\\Proyectos\\C-AT-database\\Pruebaa\\Models\\herramientas.cs",
+              "RelativeToolTip": "Models\\herramientas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T16:49:35.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "D:\\Proyectos\\C-AT-database\\Pruebaa\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.axaml.cs",
+              "ToolTip": "D:\\Proyectos\\C-AT-database\\Pruebaa\\MainWindow.axaml.cs",
+              "RelativeToolTip": "MainWindow.axaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T16:46:13.691Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.axaml",
-              "DocumentMoniker": "D:\\Proyectos\\Pruebaa\\Pruebaa\\MainWindow.axaml",
+              "DocumentMoniker": "D:\\Proyectos\\C-AT-database\\Pruebaa\\MainWindow.axaml",
               "RelativeDocumentMoniker": "MainWindow.axaml",
-              "ToolTip": "D:\\Proyectos\\Pruebaa\\Pruebaa\\MainWindow.axaml",
+              "ToolTip": "D:\\Proyectos\\C-AT-database\\Pruebaa\\MainWindow.axaml",
               "RelativeToolTip": "MainWindow.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-12-26T19:08:17.635Z",
@@ -67,50 +107,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "PersonaView.axaml",
-              "DocumentMoniker": "D:\\Proyectos\\Pruebaa\\Pruebaa\\Views\\PersonaView.axaml",
+              "DocumentMoniker": "D:\\Proyectos\\C-AT-database\\Pruebaa\\Views\\PersonaView.axaml",
               "RelativeDocumentMoniker": "Views\\PersonaView.axaml",
-              "ToolTip": "D:\\Proyectos\\Pruebaa\\Pruebaa\\Views\\PersonaView.axaml",
+              "ToolTip": "D:\\Proyectos\\C-AT-database\\Pruebaa\\Views\\PersonaView.axaml",
               "RelativeToolTip": "Views\\PersonaView.axaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-26T20:38:46.103Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HerramientaView.axaml",
-              "DocumentMoniker": "D:\\Proyectos\\Pruebaa\\Pruebaa\\Views\\HerramientaView.axaml",
-              "RelativeDocumentMoniker": "Views\\HerramientaView.axaml",
-              "ToolTip": "D:\\Proyectos\\Pruebaa\\Pruebaa\\Views\\HerramientaView.axaml",
-              "RelativeToolTip": "Views\\HerramientaView.axaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-12-26T20:38:27.553Z"
+              "WhenOpened": "2025-12-26T20:38:46.103Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "personaViewModel.cs",
-              "DocumentMoniker": "D:\\Proyectos\\Pruebaa\\Pruebaa\\ViewModels\\personaViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\personaViewModel.cs",
-              "ToolTip": "D:\\Proyectos\\Pruebaa\\Pruebaa\\ViewModels\\personaViewModel.cs",
-              "RelativeToolTip": "ViewModels\\personaViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T17:30:56.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Proyectos\\Pruebaa\\Pruebaa\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Proyectos\\Pruebaa\\Pruebaa\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-23T00:11:29.819Z"
+              "Title": "HerramientaView.axaml",
+              "DocumentMoniker": "D:\\Proyectos\\C-AT-database\\Pruebaa\\Views\\HerramientaView.axaml",
+              "RelativeDocumentMoniker": "Views\\HerramientaView.axaml",
+              "ToolTip": "D:\\Proyectos\\C-AT-database\\Pruebaa\\Views\\HerramientaView.axaml",
+              "RelativeToolTip": "Views\\HerramientaView.axaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-26T20:38:27.553Z",
+              "EditorCaption": ""
             }
           ]
         }

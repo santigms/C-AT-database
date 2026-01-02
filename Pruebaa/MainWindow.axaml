@@ -10,5 +10,28 @@
 	<Design.DataContext>
 		<vm:PersonaViewModel/>
 	</Design.DataContext>
-    <views:PersonaView/>
+    <SplitView
+           IsPaneOpen="True"
+           DisplayMode="CompactInline"
+           OpenPaneLength="300"
+           CompactPaneLength="48"
+           Background="#1e1e1e"
+           PaneBackground="#1e1e1e">
+        <SplitView.Pane>
+            <StackPanel>
+                <Button>
+                    -
+                </Button>
+                <ListBox>
+                    <ListBoxItem>Clientes</ListBoxItem>
+                    <ListBoxItem>Herramientas</ListBoxItem>
+                    <ListBoxItem>Item3</ListBoxItem>
+                </ListBox>
+            </StackPanel>
+        </SplitView.Pane>
+        <SplitView.Content>
+            <TextBlock>CONTENT</TextBlock>
+        </SplitView.Content>
+    </SplitView>
 </Window>
+<!--views:PersonaView/!-->

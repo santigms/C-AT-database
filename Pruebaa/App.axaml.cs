@@ -15,20 +15,20 @@ public partial class App : Application
 
     public override void OnFrameworkInitializationCompleted()
     {
-        // Aplica migraciones pendientes y asegura que la BD exista. Esto crea las tablas definidas por el modelo
-        // si tienes migraciones generadas se aplicarán; si prefieres EnsureCreated() cambiar aquí.
-        using (var db = new AppDbContext())
+        // Solo ejecuta la base de datos si NO estamos en el diseñador
+        if (!Avalonia.Controls.Design.IsDesignMode)
         {
-            try
+            using (var db = new AppDbContext())
             {
-                db.Database.Migrate();
-            }
-            catch (System.Exception)
-            {
-                // Si no hay migraciones creadas y se prefiere crear el esquema directamente en desarrollo,
-                // descomenta la siguiente línea y comenta db.Database.Migrate();
-                // db.Database.EnsureCreated();
-                throw;
+                try
+                {
+                    db.Database.Migrate();
+                }
+                catch (System.Exception ex)
+                {
+                    // Es buena idea imprimir el error en consola para debuguear
+                    System.Diagnostics.Debug.WriteLine($"Error de BD: {ex.Message}");
+                }
             }
         }
 
@@ -39,4 +39,4 @@ public partial class App : Application
 
         base.OnFrameworkInitializationCompleted();
     }
-}
+    }

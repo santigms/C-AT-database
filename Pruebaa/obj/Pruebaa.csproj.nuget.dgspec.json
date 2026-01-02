@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyectos\\Pruebaa\\Pruebaa\\Pruebaa.csproj": {}
+    "D:\\Proyectos\\C-AT-database\\Pruebaa\\Pruebaa.csproj": {}
   },
   "projects": {
-    "D:\\Proyectos\\Pruebaa\\Pruebaa\\Pruebaa.csproj": {
+    "D:\\Proyectos\\C-AT-database\\Pruebaa\\Pruebaa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\Pruebaa\\Pruebaa\\Pruebaa.csproj",
+        "projectUniqueName": "D:\\Proyectos\\C-AT-database\\Pruebaa\\Pruebaa.csproj",
         "projectName": "Pruebaa",
-        "projectPath": "D:\\Proyectos\\Pruebaa\\Pruebaa\\Pruebaa.csproj",
+        "projectPath": "D:\\Proyectos\\C-AT-database\\Pruebaa\\Pruebaa.csproj",
         "packagesPath": "C:\\Users\\guaym\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\Pruebaa\\Pruebaa\\obj\\",
+        "outputPath": "D:\\Proyectos\\C-AT-database\\Pruebaa\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
